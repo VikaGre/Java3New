@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="511840a5-9b1e-4b0c-843f-24fff082cef2" name="Changes" comment="L1" />
+    <list default="true" id="511840a5-9b1e-4b0c-843f-24fff082cef2" name="Changes" comment="L1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/HomeWork1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/Orange.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
